@@ -1,0 +1,12 @@
+title: Lucca Augusto
+email: lucca@luccaaugusto.xyz
+description: >-
+  meu novo blog
+baseurl: "/"
+url: "https://blog.luccaaugusto.xyz"
+github_username: luccaugusto
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
